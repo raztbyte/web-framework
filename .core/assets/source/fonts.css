@@ -1,0 +1,47 @@
+@font-face {
+
+	font-family: fonts-regular;
+	src: url('resource/fonts/fonts-regular.eot');
+	src: url('resource/fonts/fonts-regular.eot?#iefix') format('embedded-opentype'),
+		 url('resource/fonts/fonts-regular.svg') format('svg'),
+		 url('resource/fonts/fonts-regular.ttf') format('truetype'),
+		 url('resource/fonts/fonts-regular.woff') format('woff'),
+		 url('resource/fonts/fonts-regular.woff2') format('woff2');
+
+}
+
+@font-face {
+
+	font-family: fonts-bold;
+	src: url('resource/fonts/fonts-bold.eot');
+	src: url('resource/fonts/fonts-bold.eot?#iefix') format('embedded-opentype'),
+		 url('resource/fonts/fonts-bold.svg') format('svg'),
+		 url('resource/fonts/fonts-bold.ttf') format('truetype'),
+		 url('resource/fonts/fonts-bold.woff') format('woff'),
+		 url('resource/fonts/fonts-bold.woff2') format('woff2');
+
+}
+
+@font-face {
+
+	font-family: fonts-medium;
+	src: url('resource/fonts/fonts-medium.eot');
+	src: url('resource/fonts/fonts-medium.eot?#iefix') format('embedded-opentype'),
+		 url('resource/fonts/fonts-medium.svg') format('svg'),
+		 url('resource/fonts/fonts-medium.ttf') format('truetype'),
+		 url('resource/fonts/fonts-medium.woff') format('woff'),
+		 url('resource/fonts/fonts-medium.woff2') format('woff2');
+
+}
+
+@font-face {
+
+	font-family: fonts-italic;
+	src: url('resource/fonts/fonts-italic.eot');
+	src: url('resource/fonts/fonts-italic.eot?#iefix') format('embedded-opentype'),
+		 url('resource/fonts/fonts-italic.svg') format('svg'),
+		 url('resource/fonts/fonts-italic.ttf') format('truetype'),
+		 url('resource/fonts/fonts-italic.woff') format('woff'),
+		 url('resource/fonts/fonts-italic.woff2') format('woff2');
+
+}

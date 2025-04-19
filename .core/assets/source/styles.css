@@ -1,0 +1,91 @@
+html {
+
+	scroll-behavior: smooth;
+
+}
+
+body {
+
+	margin: 0;
+	padding: 0;
+	user-select: none;
+	user-zoom: none;
+	-webkit-user-select: none;
+	-webkit-user-zoom: none;
+
+}
+
+p {
+
+	font-family: 'fonts-regular', sans-serif;
+	line-height: 1.3;
+	margin: 0;
+
+}
+
+h1, h2, h3, h4, h5, h6 {
+
+	font-family: 'fonts-bold', sans-serif;
+	line-height: 1.3;
+	margin: 0;
+
+}
+
+strong {
+
+	font-family: 'fonts-medium', sans-serif;
+	line-height: 1.3;
+	margin: 0;
+
+}
+
+i {
+
+	font-family: 'fonts-italic', sans-serif;
+	line-height: 1.3;
+	margin: 0;
+
+}
+
+a {
+
+	font-family: 'fonts-regular', sans-serif;
+	text-decoration: none;
+	line-height: 1.3;
+	outline: none;
+	margin: 0;
+
+}
+
+button {
+
+	font-family: 'fonts-regular', sans-serif;
+	text-decoration: none;
+	line-height: 1.3;
+	outline: none;
+	border: none;
+	margin: 0;
+
+}
+
+input {
+
+	font-family: 'fonts-regular', sans-serif;
+	text-decoration: none;
+	line-height: 1.3;
+	outline: none;
+	border: none;
+	margin: 0;
+
+}
+
+textarea {
+
+	font-family: 'fonts-regular', sans-serif;
+	text-decoration: none;
+	line-height: 1.3;
+	outline: none;
+	border: none;
+	margin: 0;
+
+}
